@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/MDWNewsAndTestimonialsExtension",
+    "name": "OpenMageModuleFostering\/MDWNewsAndTestimonialsExtension",
     "type": "magento-module",
     "license": "Extension-license-name-(OSL-v3.0)",
     "homepage": "",
     "description": "Extra CMS Content",
     "authors": [
-    {
-        "name": "Mason Web Development",
-        "email": "magentosupport@masonwebdevelopment.com"
-    }
-],
+        {
+            "name": "Mason Web Development",
+            "email": "magentosupport@masonwebdevelopment.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
